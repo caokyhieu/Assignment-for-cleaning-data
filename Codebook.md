@@ -77,18 +77,18 @@ fBodyAccJerkMag
 fBodyGyroMag
 fBodyGyroJerkMag
 
-The set of variables that were estimated from these signals are: 
+# The set of variables that were estimated from these signals are: 
 
-mean(): Mean value
-std(): Standard deviation
-mad(): Median absolute deviation 
-max(): Largest value in array
-min(): Smallest value in array
-sma(): Signal magnitude area
-energy(): Energy measure. Sum of the squares divided by the number of values. 
-iqr(): Interquartile range 
-entropy(): Signal entropy
-arCoeff(): Autorregresion coefficients with Burg order equal to 4
++ mean(): Mean value
++ std(): Standard deviation
++ mad(): Median absolute deviation 
++ max(): Largest value in array
++ min(): Smallest value in array
++ sma(): Signal magnitude area
++ energy(): Energy measure. Sum of the squares divided by the number of values. 
++ iqr(): Interquartile range 
++ entropy(): Signal entropy
++ arCoeff(): Autorregresion coefficients with Burg order equal to 4
 correlation(): correlation coefficient between two signals
 maxInds(): index of the frequency component with largest magnitude
 meanFreq(): Weighted average of the frequency components to obtain a mean frequency
