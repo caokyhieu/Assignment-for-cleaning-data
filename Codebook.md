@@ -127,12 +127,12 @@ These signals were used to estimate variables of the feature vector for each pat
 + std(): Standard deviation
 
 # and:
-+ subject :who performed the activity for each window sample. Its range is from 1 to 30
-+ activity.labels:
- 1 WALKING
- 2 WALKING_UPSTAIRS
- 3 WALKING_DOWNSTAIRS
- 4 SITTING
- 5 STANDING
- 6 LAYING
+## subject :who performed the activity for each window sample. Its range is from 1 to 30
+ ## activity.labels:
+ + 1 WALKING
+ + 2 WALKING_UPSTAIRS
+ + 3 WALKING_DOWNSTAIRS
+ + 4 SITTING
+ + 5 STANDING
+ + 6 LAYING
   
