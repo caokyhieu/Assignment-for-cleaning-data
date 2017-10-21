@@ -11,8 +11,8 @@
 
 # mege two tables (dat and acitivty_labels) with parameter sort=FALSE, eliminate the first column (code) -> mergeData
 
-# select features with mean() and std() (mean and standard diviation) in features table(66 features) plus two features "activity"
-# and "activity.labels"
+# select features with mean() and std() (mean and standard diviation) in features table(66 features) plus two features "activity" and "activity.labels"
+# make subset table from mergeData table by 68 features above
 
 # use lapply() to calculate everage values of features for each person and each activity.
 
